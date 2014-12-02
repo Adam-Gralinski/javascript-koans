@@ -17,6 +17,8 @@ you to solve more complicated problems and use more advanced techniques.
 
 ### Running the Koans from console
 
+If you haven't `grunt-cli` already installed, run `npm install -g grunt-cli`.
+
 In the root folder of downloaded repository run `npm install` – than `grunt server`.
 
 Grunt server will open your browser with address [127.0.0.1:9000](http://127.0.0.1:9000/)
